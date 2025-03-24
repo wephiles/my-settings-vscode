@@ -1,6 +1,8 @@
 # my-settings-vscode
 Vscode配置
 
+```json
+
 "Python": {
 		"prefix": "header",
 		"body": [
@@ -20,3 +22,4 @@ Vscode配置
 		],
 		"description": "Log output to console"
 	}
+```
